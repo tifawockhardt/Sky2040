@@ -5,12 +5,13 @@
 
 
 
-**How to update firmware:**
+### How to update firmware:
 
-Guide by (chrysalysm)[https://github.com/chrysalysm] can be found here: 
-[https://gist.github.com/chrysalysm/d292f104822c2ed4c797a78434362ad0]
+Guide by [chrysalysm](https://github.com/chrysalysm) can be found here: 
+https://gist.github.com/chrysalysm/d292f104822c2ed4c797a78434362ad0
 
-**Art Template V.2**
+
+### Art Template V.2
 
 ![Template](https://raw.githubusercontent.com/tifawockhardt/Sky2040/main/Sky2040%20Art.png)
 [Full Size](https://raw.githubusercontent.com/tifawockhardt/Sky2040/main/Sky2040%20Art.png)
